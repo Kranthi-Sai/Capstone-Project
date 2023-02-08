@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Capstone-Project/static/css/main.aa628a68.css",
-    "main.js": "/Capstone-Project/static/js/main.3d561122.js",
+    "main.js": "/Capstone-Project/static/js/main.f8bd1d4d.js",
     "static/media/quiz_icon.svg": "/Capstone-Project/static/media/quiz_icon.4047f16cb75b2698a953eaf1d37f026c.svg",
     "index.html": "/Capstone-Project/index.html",
     "main.aa628a68.css.map": "/Capstone-Project/static/css/main.aa628a68.css.map",
-    "main.3d561122.js.map": "/Capstone-Project/static/js/main.3d561122.js.map"
+    "main.f8bd1d4d.js.map": "/Capstone-Project/static/js/main.f8bd1d4d.js.map"
   },
   "entrypoints": [
     "static/css/main.aa628a68.css",
-    "static/js/main.3d561122.js"
+    "static/js/main.f8bd1d4d.js"
   ]
 }
