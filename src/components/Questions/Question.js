@@ -72,7 +72,7 @@ const Question = ({
               color="secondary"
               size="large"
               style={{ width: 185 }}
-              href="/Capstone-project"
+              href="/Capstone-Project"
               onClick={() => handleQuit()}
             >
               Quit
